@@ -1,4 +1,4 @@
-#COMM 1106 - Introduction to Business and Technical Communication
+# COMM 1106 - Introduction to Business and Technical Communication
 
 
 - Follow a systematic process in planning and writing business and technical documents.
